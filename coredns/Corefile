@@ -1,5 +1,5 @@
 .:53 {
-    health localhost:5380 #/helath
+    health 127.0.0.1:5380 #/helath
     #prometheus
     cache 60
     # 负载均衡，开启DNS记录轮询策略
